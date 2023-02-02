@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "1.5.0",
   "private": false,
-  "homepage": "https://sipshrms.in/vts-web-portal/",
+  "homepage": "https://52.91.121.74/vts-web-portal/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

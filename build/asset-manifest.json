@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vts-web-portal/static/css/main.25895456.css",
+    "main.js": "/vts-web-portal/static/js/main.ce1447e6.js",
+    "static/js/787.1199a6d1.chunk.js": "/vts-web-portal/static/js/787.1199a6d1.chunk.js",
+    "index.html": "/vts-web-portal/index.html",
+    "main.25895456.css.map": "/vts-web-portal/static/css/main.25895456.css.map",
+    "main.ce1447e6.js.map": "/vts-web-portal/static/js/main.ce1447e6.js.map",
+    "787.1199a6d1.chunk.js.map": "/vts-web-portal/static/js/787.1199a6d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25895456.css",
+    "static/js/main.ce1447e6.js"
+  ]
+}
