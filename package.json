@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "1.5.0",
   "private": false,
-  "homepage": "http://54.87.239.70/vts-web-portal/",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
