@@ -35,7 +35,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <HelmetProvider>
      {/* <BrowserRouter basename='/vts-web-portal'> */}
-     <BrowserRouter>
+     <BrowserRouter >
       <App />
     </BrowserRouter>
   </HelmetProvider>
